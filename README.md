@@ -1,4 +1,6 @@
-**👩‍💻 NAME**  
+<h2>ℹ️ 정보</h2>
+
+<small>**👩‍💻 NAME**  
 박혜진 (HYEJIN PARK)
 
 **📧 E-MAIL**  
@@ -8,7 +10,8 @@
 Hallym University
 
 **🔬 LAB**  
-[CIC Lab] (https://cic.hallym.ac.kr/)
+[CIC Lab] (https://cic.hallym.ac.kr/)</small>
+<br><br>
 
 <h3 align="left"> Tech Stack </h3>
 <div align="left">
@@ -21,4 +24,9 @@ Hallym University
   <img src="https://img.shields.io/badge/C-DB7093?style=for-the-badge&logo=C&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/Raspberrypi-007ACC.svg?style=for-the-badge&logo=Raspberrypi&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Linux-DB7093?style=for-the-badge&logo=Linux&logoColor=ffd35b" />&nbsp
-</div>
+</div> 
+<br><br>
+
+<h2>📄 논문</h2>
+<ul>
+  <li>채널 상태 정보 기반 무자각 환자 행동 모니터링 시스템에 관한 연구 - July, 2025</li>
