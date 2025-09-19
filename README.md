@@ -38,6 +38,6 @@ Hallym University
 
 <h2>📚️ Projects </h2>
 <ul>
-  <li> IoT 네트워크 기말 프로젝드 - 2025 1st Semester </li>
+  <li> IoT 네트워크 기말 프로젝트 - 2025 1st Semester </li>
 </ul>
 
