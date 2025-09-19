@@ -38,8 +38,8 @@ Hallym University
 
 <h2>📚️ Projects </h2>
 <ul>
-  <li> 임베디드 기말 프로젝트 - 2024 2nd Semester </li>
-  <li> IoT 네트워크 기말 프로젝트 - 2025 1st Semester </li>
-  <li> 운영체제 기말 프로젝트 - 2025 1st Semester </li>
+  <li> 임베디드 기말 프로젝트 -  2nd Semester 2024</li>
+  <li> IoT 네트워크 기말 프로젝트 -  1st Semester 2025</li>
+  <li> 운영체제 기말 프로젝트 -  1st Semester 2025</li>
 </ul>
 
